@@ -1,11 +1,11 @@
-# CLAUDE.md — curso-codex-18-v6
+﻿# CLAUDE.md â€” curso-codex-18-v6
 
-Curso "Codex 18 v6" no formato-curso-v6 (18 aulas, 4 módulos, perfil técnico). Irmão do v2 em `~/projetos/curso-codex-18` (fatos permitidos: `context/SPEC.md` de lá).
+Curso "Codex 18 v6" no formato-curso-v6 (18 aulas, 4 mÃ³dulos, perfil tÃ©cnico). IrmÃ£o do v2 em `~/projetos/curso-codex-18` (fatos permitidos: `context/SPEC.md` de lÃ¡).
 
-- **Sem citar fontes** (vídeo, canal, autor). Personagens: Paula (consultora de RH) e Jorge (lojista) — nunca "Rui" (nome já usado em outro curso v6).
-- Edite `aulas/aula-N.html`; `curso.html` é montado (`montar-curso.py`). Portão: `auditar-curso.cjs` (todas ≥9/10) + `testar-motor.cjs` (26/26).
+- **Sem citar fontes** (vÃ­deo, canal, autor). Personagens: Paula (consultora de RH) e Jorge (lojista) â€” nunca "Rui" (nome jÃ¡ usado em outro curso v6).
+- Edite `aulas/aula-N.html`; `curso.html` Ã© montado (`montar-curso.py`). PortÃ£o: `auditar-curso.cjs` (todas â‰¥9/10) + `testar-motor.cjs` (26/26).
 - Cenas: `context/cenas.tsv` + `gerar-cena.py` (Codex pela assinatura). Olhar cada imagem antes de aceitar.
-- Conta git: `inematds <inematds@gmail.com>`. Publicar = push; Pages na raiz (main).
+- Conta git: `linnoff88-dev <linnoff88-dev@gmail.com>`. Publicar = push; Pages na raiz (main).
 
 ## Self-learning
 
@@ -13,4 +13,4 @@ When I correct you, or you catch yourself making a mistake: before continuing, a
 
 ## Lessons
 
-- Agentes autores: o `testar-motor.cjs` só testa a aula 1 (e sua 1ª tela com dois casos); numa cópia sem a aula 1, renumerar ou usar a aula-modelo como 1.
+- Agentes autores: o `testar-motor.cjs` sÃ³ testa a aula 1 (e sua 1Âª tela com dois casos); numa cÃ³pia sem a aula 1, renumerar ou usar a aula-modelo como 1.
