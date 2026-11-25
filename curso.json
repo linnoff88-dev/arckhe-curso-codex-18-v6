@@ -1,13 +1,13 @@
 {
   "id": "cx18v6",
-  "titulo": "Codex 18 v6 â€” Os 18 conceitos que fazem o Codex trabalhar por vocÃª",
-  "titulo_html": "Os 18 conceitos que fazem o Codex <em>trabalhar por vocÃª</em>",
+  "titulo": "Codex 18 v6 ê¢â¬â Os 18 conceitos que fazem o Codex trabalhar por vocêÂª",
+  "titulo_html": "Os 18 conceitos que fazem o Codex <em>trabalhar por vocêÂª</em>",
   "curso_curto": "Codex 18 v6",
-  "kicker": "Codex 18 v6 Â· 4 mÃ³dulos Â· aulas de uns 15 minutos",
-  "lead": "VocÃª sai do chat que esquece tudo para um assistente que conhece o seu trabalho: projeto, regras, receitas, aplicativos conectados e tarefas que rodam sozinhas. Sem programar, com a Paula, consultora de RH, e o Jorge, dono de loja.",
+  "kicker": "Codex 18 v6 êÂ· 4 mêÂ³dulos êÂ· aulas de uns 15 minutos",
+  "lead": "VocêÂª sai do chat que esquece tudo para um assistente que conhece o seu trabalho: projeto, regras, receitas, aplicativos conectados e tarefas que rodam sozinhas. Sem programar, com a Paula, consultora de RH, e o Jorge, dono de loja.",
   "imagem_trilha": "assets/img/trilha.webp",
-  "alt_trilha": "Uma consultora de RH e um dono de loja de materiais de construÃ§Ã£o, lado a lado diante de um notebook numa mesa de escritÃ³rio, conferindo juntos uma lista de tarefas no papel.",
-  "rodape": "Codex 18 v6 Â· ARCKHÉ AI Â· <a href=\"landing.html\">sobre o curso</a>",
+  "alt_trilha": "Uma consultora de RH e um dono de loja de materiais de construêÂ§êÂ£o, lado a lado diante de um notebook numa mesa de escritêÂ³rio, conferindo juntos uma lista de tarefas no papel.",
+  "rodape": "Codex 18 v6 êÂ· ARCKHê AI êÂ· <a href=\"landing.html\">sobre o curso</a>",
   "landing": "landing.html",
   "perfil": "tecnico",
   "termos": [
@@ -30,9 +30,9 @@
     "plugins"
   ],
   "modulos": [
-    {"titulo": "MÃ³dulo 1 Â· Fundamentos", "resumo": "Projeto, regras, o ciclo do agente e objetivos que ele persegue atÃ© o fim.", "aulas": [1, 2, 3, 4]},
-    {"titulo": "MÃ³dulo 2 Â· Ambientes", "resumo": "Local, nuvem e celular, cÃ³pias para testar sem medo e onde moram as configuraÃ§Ãµes.", "aulas": [5, 6, 7]},
-    {"titulo": "MÃ³dulo 3 Â· Controle", "resumo": "Modelo, esforÃ§o, permissÃµes, receitas reutilizÃ¡veis e aplicativos conectados.", "aulas": [8, 9, 10, 11, 12, 13]},
-    {"titulo": "MÃ³dulo 4 Â· Ferramentas e escala", "resumo": "Navegador, sites, ajudantes em paralelo, tarefas agendadas e comando por voz.", "aulas": [14, 15, 16, 17, 18]}
+    {"titulo": "MêÂ³dulo 1 êÂ· Fundamentos", "resumo": "Projeto, regras, o ciclo do agente e objetivos que ele persegue atêÂ© o fim.", "aulas": [1, 2, 3, 4]},
+    {"titulo": "MêÂ³dulo 2 êÂ· Ambientes", "resumo": "Local, nuvem e celular, cêÂ³pias para testar sem medo e onde moram as configuraêÂ§êÂµes.", "aulas": [5, 6, 7]},
+    {"titulo": "MêÂ³dulo 3 êÂ· Controle", "resumo": "Modelo, esforêÂ§o, permissêÂµes, receitas reutilizêÂ¡veis e aplicativos conectados.", "aulas": [8, 9, 10, 11, 12, 13]},
+    {"titulo": "MêÂ³dulo 4 êÂ· Ferramentas e escala", "resumo": "Navegador, sites, ajudantes em paralelo, tarefas agendadas e comando por voz.", "aulas": [14, 15, 16, 17, 18]}
   ]
 }

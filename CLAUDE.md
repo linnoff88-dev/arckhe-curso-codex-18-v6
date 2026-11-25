@@ -1,9 +1,9 @@
-﻿# CLAUDE.md â€” curso-codex-18-v6
+ï»¿# CLAUDE.md ê¢â¬â curso-codex-18-v6
 
-Curso "Codex 18 v6" no formato-curso-v6 (18 aulas, 4 mÃ³dulos, perfil tÃ©cnico). IrmÃ£o do v2 em `~/projetos/curso-codex-18` (fatos permitidos: `context/SPEC.md` de lÃ¡).
+Curso "Codex 18 v6" no formato-curso-v6 (18 aulas, 4 mêÂ³dulos, perfil têÂ©cnico). IrmêÂ£o do v2 em `~/projetos/curso-codex-18` (fatos permitidos: `context/SPEC.md` de lêÂ¡).
 
-- **Sem citar fontes** (vÃ­deo, canal, autor). Personagens: Paula (consultora de RH) e Jorge (lojista) â€” nunca "Rui" (nome jÃ¡ usado em outro curso v6).
-- Edite `aulas/aula-N.html`; `curso.html` Ã© montado (`montar-curso.py`). PortÃ£o: `auditar-curso.cjs` (todas â‰¥9/10) + `testar-motor.cjs` (26/26).
+- **Sem citar fontes** (vêÂ­deo, canal, autor). Personagens: Paula (consultora de RH) e Jorge (lojista) ê¢â¬â nunca "Rui" (nome jêÂ¡ usado em outro curso v6).
+- Edite `aulas/aula-N.html`; `curso.html` êÂ© montado (`montar-curso.py`). PortêÂ£o: `auditar-curso.cjs` (todas ê¢â°Â¥9/10) + `testar-motor.cjs` (26/26).
 - Cenas: `context/cenas.tsv` + `gerar-cena.py` (Codex pela assinatura). Olhar cada imagem antes de aceitar.
 - Conta git: `linnoff88-dev <linnoff88-dev@gmail.com>`. Publicar = push; Pages na raiz (main).
 
@@ -13,4 +13,4 @@ When I correct you, or you catch yourself making a mistake: before continuing, a
 
 ## Lessons
 
-- Agentes autores: o `testar-motor.cjs` sÃ³ testa a aula 1 (e sua 1Âª tela com dois casos); numa cÃ³pia sem a aula 1, renumerar ou usar a aula-modelo como 1.
+- Agentes autores: o `testar-motor.cjs` sêÂ³ testa a aula 1 (e sua 1êÂª tela com dois casos); numa cêÂ³pia sem a aula 1, renumerar ou usar a aula-modelo como 1.
